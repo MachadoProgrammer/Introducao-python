@@ -45,3 +45,5 @@ def ats(a,b):
     print(f'a={a} b={b}')
 d = {'a': 1, 'b': 2}
 ats(**d)
+
+# Contineu with the example of the teams
