@@ -53,7 +53,7 @@ while not done:
     teams[team_name] = {'name': team_name, 'players': [] }
     print('Time cadastrado')
 
-  elif choice == "2":
+  elif choice == "2": 
 
     os.system('clear')
     # lISTAR OS TIMES, E REMOVER O ESCOLHIDO

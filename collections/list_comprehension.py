@@ -1,4 +1,5 @@
-# List comprehension is a concise way to create lists. It consists of brackets containing an expression followed by a for clause, then zero or more for or if clauses. The expressions can be anything, meaning you can put in all kinds of objects in lists.
+# List comprehension is a concise way to create lists. It consists of brackets containing an expression followed by a for clause, 
+# then zero or more for or if clauses. The expressions can be anything, meaning you can put in all kinds of objects in lists.
 
 # List values from o to 10 that be lower than 4
 # for i in range(10):
