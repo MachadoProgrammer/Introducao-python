@@ -12,7 +12,7 @@ print(f'O diretória atual é: {os.getcwd()}')
 print(f'Os arquivos e diretórios são: {os.listdir()}')
 
 # Vesão do SO
-os.system('systeminfo')
+print(os.uname())
 
 # Limpar tela
-os.system('clear')
+# os.system('clear')
